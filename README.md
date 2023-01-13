@@ -1,1 +1,1 @@
-# NaverConnect_SW_P
+# NaverConnect_SW_Project
