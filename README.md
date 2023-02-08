@@ -47,4 +47,9 @@
 ***
 
 <p> 게임 배포 및 사용자 후기 </p>
-<img src="https://user-images.githubusercontent.com/53892427/217455032-f1dee621-1e0f-4a84-ace8-46ce51790396.jpg"  width="500" height = "500">
+<img src="https://user-images.githubusercontent.com/53892427/217455032-f1dee621-1e0f-4a84-ace8-46ce51790396.jpg"  width="500" height = "500"> <img src="https://user-images.githubusercontent.com/53892427/217455090-9f263353-902b-4361-b317-c97373f29ff5.jpg" width="500" height = "500">
+<p> 반 대표 학생 후기: 매 수업 차시마다 제공되는 범인에 대한 힌트를 게임으로 한 번에 고민하며 문제를 풀 수 있어서 좋았습니다! 힌트가 제공되는 점도 문제를 해결하는데 도움이 많이 되었습니다. </p>
+
+# <h4> 2일차는 어떤 수업을 진행했나요? </h4>
+<b> " 네오씽카를 코딩으로 조종해요! " </b>
+<p> 네오씽카를 직접 조립하고, 엔트리를 이용해 네오씽카를 직접 코딩해 조종해요! </p>
