@@ -29,4 +29,7 @@
 <p> <게임 1 : 동경한 멘토 선생님들의 이름을 맞춰라!> </p>
 <img src="https://user-images.githubusercontent.com/53892427/217454822-79956c32-9c72-4460-a114-27b52cd823b2.jpg" width="300" height = "500">
 <p> 첫 날 수업 1차시에 , 아이들과 친해지기 위해 멘토선생님들의 이름을 맞추는 게임을 진행하였다. </p>
+<img src="https://user-images.githubusercontent.com/53892427/217454937-d06242b8-006b-4dd6-ad09-d00f0a162e4c.jpg" width="300" height ="400">
+<p> 아이들에게 힌트를 제공할 수 있도록 힌트창도 만들게 되었다. 정답 입력 창에 '힌트'라고 입력하게 되면, 선생님들의 이름에 대한 힌트를 제공 받을 수 있다. </p>
+
 
