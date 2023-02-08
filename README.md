@@ -40,9 +40,11 @@
 ***
 
 <p> <게임 구성 2 : (네이버 스토리 제작) 그린초에 선생님으로 변장한 AI를 찾아라!> </P>
-<img src="https://user-images.githubusercontent.com/53892427/217454822-79956c32-9c72-4460-a114-27b52cd823b2.jpg" width="300" height = "500">
-<p> 첫 날 수업 1차시에 , 아이들과 친해지기 위해 멘토선생님들의 이름을 맞추는 게임을 진행하였다. </p>
-<img src="https://user-images.githubusercontent.com/53892427/217454937-d06242b8-006b-4dd6-ad09-d00f0a162e4c.jpg" width="300" height ="400">
-<p> 아이들에게 힌트를 제공할 수 있도록 힌트창도 만들게 되었다. 정답 입력 창에 '힌트'라고 입력하게 되면, 선생님들의 이름에 대한 힌트를 제공 받을 수 있다. </p>
-<img src="https://user-images.githubusercontent.com/53892427/217454985-904984fd-dc9a-4af6-bb91-8005aee6739c.jpg" width="300" height ="400">
-<p> 힌트를 입력하게 되면 아이들에게 보여지는 이름 힌트의 화면이다. </p>
+<p> 첫 날 수업 2 ~ 4차시에, 인공지능의 신뢰성&악용가능성&편향성 수업을 듣고 받은 범인에 대한 힌트들을 가지고 범인을 찾아낸다!
+<img src="https://user-images.githubusercontent.com/53892427/217454731-a801d24c-e4a9-4a1a-9405-755affa3eb01.jpg" width="300" height = "500">
+<p> 최종적으로 받은 3개의 힌트를 조합해 범인인 날쌤을 찾아낸다. </p>
+
+***
+
+<p> 게임 배포 및 사용자 후기 </p>
+
