@@ -69,6 +69,12 @@
 <img src ="https://user-images.githubusercontent.com/53892427/217463573-0fdffe9c-a985-4cca-927e-fc5e9134110e.jpg" width="600" height = "400"> 
 <p> 용마초 어린이 탐정단, 지난 2일간 정말 수고 많았습니다! 앞으로도 인공지능과 친해지기를 동경한이 응원할게요! </p>
 
+***
+
+# <h4> SNS 카드 뉴스 및 용마초 친구들과 함께한 챌린지 완료! </h4>
+<img src ="https://user-images.githubusercontent.com/53892427/218483331-2de618f5-0172-469c-b529-e06e98741910.png" width="400" height = "800"> 
+<p> 동경한의 모든 소프트웨어야 놀자 프로젝트 활동 내용을 담은 카드뉴스 및 챌린지 를 제작 완료하였습니다! </p>
+
 # <h4> 네이버 1784 & 동경한 팀장 인터뷰 </h4>
 <img src ="https://user-images.githubusercontent.com/53892427/217465136-b10dd39f-db59-4c95-9480-4ceba2052dca.jpg" width="600" height = "400"> 
 <p> 팀장 오소현은 네이버 1784 소프트웨어야놀자 멘토 인터뷰를 진행하였습니다. </p>
